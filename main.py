@@ -110,6 +110,8 @@ def create_sub_section():
 if __name__ == "__main__":
     telegram_urls = [
         "https://t.me/s/v2line",
+        "https://t.me/ShadowProxy66",
+        "https://t.me/v2ray_configs_pool",
         "https://t.me/s/forwardv2ray",
         "https://t.me/s/inikotesla",
         "https://t.me/s/PrivateVPNs",
